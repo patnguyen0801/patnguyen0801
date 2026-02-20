@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**patnguyen0801/patnguyen0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Patricia P Nguyen
 Cybersecurity Graduate | CompTIA Security+ | ComPTIA PenTest+ | CompTIA CNVP
 
