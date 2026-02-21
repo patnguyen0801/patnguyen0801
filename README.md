@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Patricia P Nguyen
+
 Cybersecurity Graduate | CompTIA Security+ | ComPTIA PenTest+ | CompTIA CNVP
 
 Aspiring SOC Analyst with experience in:
